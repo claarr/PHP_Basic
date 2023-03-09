@@ -1,0 +1,2 @@
+----- BAGAIMANA MEMILIH BAHASA PEMROGRAMAN -----
+Di video ini membahas bagaimana tepatnya kita memilih bahasa perograman pertama dan bagaimana kita diharapkan bisa membuat keputusan besar tanpa memiliki keahlian. Hal itu tergantung dari lingkungan, bahasa lisan, dan preferensi masing-masing orang (kecenderungan untuk memilih sesuatu yang lebih disukai daripada yang lain). Tidak masalah pilihan kita PHP atau Ruby atau bahasa pemrograman lainnya, karena saat mempelajari satu bahasa maka bahasa berikutnya secara signifikan lebih mudah diambil dengan mengingat hal itu.
